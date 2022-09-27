@@ -339,10 +339,6 @@ footer .copyright{
         display: flex;
     }
     
-    @media screen and (max-width: 650px){
-        
-    }
-}
 
 @media screen and (max-width: 370px){
     #main nav {
