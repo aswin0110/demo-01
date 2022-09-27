@@ -344,7 +344,7 @@ footer .copyright{
     }
 }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 380px){
     #main nav {
     display: flex;
     padding: 0 4PX;
